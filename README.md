@@ -32,7 +32,7 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-Pc9451bBn1RBc61JpG-cwiAXfduZ5iV18nrLM-UUbNxXjonMhPSNHzY2A2h5FIbcrLnhlCer4TKfTaSTPj_7yB5wlD6KOSaF0oeBQ=s512)
+![App Screenshot](https://drive.google.com/file/d/1UbbQNanUeFwe2UpbhkaNgdeieHYQ50XI/view?usp=sharing)
 
 ![App Screenshot](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-OGih9bdC2QYedLJ9f2bLJXf16BqPNp4c8gcSvqT3tYBkgXyzhtjUvn0dVESr74GFAtHuMuP4V-6FM4QMBr4VmQZTpsgOa3TEYA5Lg=s512)
 
